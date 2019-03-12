@@ -1,11 +1,11 @@
 backend:
   name: github
-  repo: skyfly200/Daniel-Vega-Site
+  repo: tinyfood/CMS-Template
   branch: master
 
 public_folder: "/assets"
 media_folder: ".vuepress/public/assets"
-display_url: https://daniel-vega.netlify.com
+display_url: https://happy-bohr-6ca551.netlify.com/
 
 collections:
   - name: "pages"
